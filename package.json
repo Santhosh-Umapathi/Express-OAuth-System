@@ -1,13 +1,16 @@
 {
   "name": "express-oauth",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express O-Auth Application",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "Expres",
+    "OAuth 2.0"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
